@@ -80695,7 +80695,7 @@ q.toString
 p=k.a
 o=p.d
 n=k.d
-m=A.aL(n?B.SZ:B.T8,j,j,j)
+m=A.aL(n?B.SZ:B.T9,j,j,j)
 l=n?"Back":"More"
 l=A.a([new A.ahe(m,new A.biB(k),l,j)],t.p)
 B.h.W(l,k.a.c)
@@ -128599,7 +128599,7 @@ if(o==null)o=""
 o=A.h(o,l,l,l,l,A.E(l,l,A.ai(255,6,43,123),l,l,l,l,l,l,l,l,l,l,l,B.A,l,l,!0,l,l,l,l,l,l,l,l),l,l,l)
 n=B.c.H("GPID: ",j.c.xI(0,"gpid",r))
 m=t.p
-return A.u(A.a([i,s,A.A(l,A.bzP(A.u(A.a([p,new A.M(B.Se,A.z(A.a([new A.M(new A.x(0,10,0,0),o,l),A.h(n,l,l,l,l,A.E(l,l,A.ai(255,6,43,123),l,l,l,l,l,l,l,l,10,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l,l)],m),B.n,B.f,B.d,B.l),l),A.aL(B.T7,l,l,l)],m),B.j,B.f,B.d,l),new A.aUp(h),r),B.k,l,l,new A.af(B.fD,l,q,B.P,l,l,B.u),l,l,l,new A.x(10,0,0,0),new A.x(10,5,10,5),l,l,l)],m),B.j,B.f,B.d,l)}}
+return A.u(A.a([i,s,A.A(l,A.bzP(A.u(A.a([p,new A.M(B.Se,A.z(A.a([new A.M(new A.x(0,10,0,0),o,l),A.h(n,l,l,l,l,A.E(l,l,A.ai(255,6,43,123),l,l,l,l,l,l,l,l,10,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l,l)],m),B.n,B.f,B.d,B.l),l),A.aL(B.T8,l,l,l)],m),B.j,B.f,B.d,l),new A.aUp(h),r),B.k,l,l,new A.af(B.fD,l,q,B.P,l,l,B.u),l,l,l,new A.x(10,0,0,0),new A.x(10,5,10,5),l,l,l)],m),B.j,B.f,B.d,l)}}
 A.aUo.prototype={
 $1(a){var s=null,r=this.a,q=t.z
 return A.a([A.aTM(A.A(s,A.jG("assets/images/br-flag.png",s,38,s),B.k,s,s,s,s,s,s,s,s,s,s,38),new A.aUl(r),q),A.aTM(A.A(s,A.jG("assets/images/us-flag.png",s,38,38),B.k,s,s,s,s,s,s,s,s,s,s,38),new A.aUm(r),q),A.aTM(A.A(s,A.jG("assets/images/es-flag.png",s,38,38),B.k,s,s,s,s,s,s,s,s,s,s,38),new A.aUn(r),q)],t.nm)},
@@ -128628,7 +128628,7 @@ A.aZn.prototype={
 $0(){},
 $S:0}
 A.aS.prototype={
-C(b2){var s,r,q,p,o,n,m,l=null,k="/country",j="/company",i="/timezone",h="/timezone-value",g="/activity",f="/activity-type",e="/activity-truck",d="icons/sidemenu/timezone_value.png",c="/location",b="/location-type",a="/location-group",a0="/trip-gtms",a1="icons/sidemenu/location_group.png",a2="icons/sidemenu/truck.png",a3="/attribution",a4="/position",a5="icons/sidemenu/drivers.png",a6="assets/icons/menu_tran.svg",a7="/schedule",a8="Relat\xf3rios",a9=A.iU(A.b3(l,new A.a_0(A.jG("assets/images/logo.png",l,l,l),l),B.o,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.b_e(),l,l,l,l,l,l),B.d5,l,l,l,l),b0=t.p,b1=A.b3(l,A.iU(A.A(l,A.u(A.a([A.j(l,l,16),A.aL(B.T5,A.ai(255,6,43,123),l,16),A.j(l,l,10),A.h(A.d("Home"),l,l,l,l,A.E(l,l,A.ai(255,6,43,123),l,l,l,l,l,l,l,l,16,l,l,B.A,l,l,!0,l,l,l,l,l,l,l,l),l,l,l)],b0),B.j,B.f,B.d,l),B.k,l,l,l,l,40,l,l,l,l,l,l),B.d5,l,l,l,l),B.o,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.b_f(),l,l,l,l,l,l)
+C(b2){var s,r,q,p,o,n,m,l=null,k="/country",j="/company",i="/timezone",h="/timezone-value",g="/activity",f="/activity-type",e="/activity-truck",d="icons/sidemenu/timezone_value.png",c="/location",b="/location-type",a="/location-group",a0="/trip-gtms",a1="icons/sidemenu/location_group.png",a2="icons/sidemenu/truck.png",a3="/attribution",a4="/position",a5="icons/sidemenu/drivers.png",a6="assets/icons/menu_tran.svg",a7="/schedule",a8="Relat\xf3rios",a9=A.iU(A.b3(l,new A.a_0(A.jG("assets/images/logo.png",l,l,l),l),B.o,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.b_e(),l,l,l,l,l,l),B.d5,l,l,l,l),b0=t.p,b1=A.b3(l,A.iU(A.A(l,A.u(A.a([A.j(l,l,16),A.aL(B.T6,A.ai(255,6,43,123),l,16),A.j(l,l,10),A.h(A.d("Home"),l,l,l,l,A.E(l,l,A.ai(255,6,43,123),l,l,l,l,l,l,l,l,16,l,l,B.A,l,l,!0,l,l,l,l,l,l,l,l),l,l,l)],b0),B.j,B.f,B.d,l),B.k,l,l,l,l,40,l,l,l,l,l,l),B.d5,l,l,l,l),B.o,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.b_f(),l,l,l,l,l,l)
 $.e()
 s=$.a_().to.a
 s=B.c.bi(s,k)||B.c.bi(s,"/city")||B.c.bi(s,"/state")||B.c.bi(s,j)||B.c.bi(s,i)||B.c.bi(s,h)||B.c.bi(s,g)||B.c.bi(s,f)||B.c.bi(s,e)||B.c.bi(s,"/region")
@@ -140385,7 +140385,7 @@ d=A.bn(c,!1,c,c,c,c,c,c,c,c,A.aL(B.cY,J.m(e.gj(e),0)?B.E:B.D,c,c),c,c,c,new A.aN
 e=$.b
 s=J.bqE((e==null?$.b=B.b:e).k(0,c,s).gc6()[a4])
 e=t.p
-return A.z(A.a([A.A(c,A.u(A.a([a,a0,a2,q,p,o,n,m,r,l,i,b,new A.bA(new A.aNT(a1,a4),c),new A.bA(new A.aNU(a1,a4),c),k,j,h,g,f,d,A.bn(c,!1,c,c,c,c,c,c,c,c,A.aL(B.T9,J.m(s.gj(s),0)?B.D:B.F,c,c),c,c,c,new A.aNV(a1,a3,a4),c,c,c,c,c,c,c)],e),B.j,B.f,B.d,c),B.k,c,c,c,c,c,c,c,c,c,c,c),A.j(c,2,c)],e),B.j,B.f,B.d,B.l)},
+return A.z(A.a([A.A(c,A.u(A.a([a,a0,a2,q,p,o,n,m,r,l,i,b,new A.bA(new A.aNT(a1,a4),c),new A.bA(new A.aNU(a1,a4),c),k,j,h,g,f,d,A.bn(c,!1,c,c,c,c,c,c,c,c,A.aL(B.T4,J.m(s.gj(s),0)?B.D:B.F,c,c),c,c,c,new A.aNV(a1,a3,a4),c,c,c,c,c,c,c)],e),B.j,B.f,B.d,c),B.k,c,c,c,c,c,c,c,c,c,c,c),A.j(c,2,c)],e),B.j,B.f,B.d,B.l)},
 $S:844}
 A.aNL.prototype={
 $0(){},
@@ -143230,7 +143230,7 @@ if(o==null)o=""
 o=A.u(A.a([new A.de(o,j,new A.R(!0,j,j,j,j,j,10,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j),j,j,j,j,j,j,j,j),new A.de("",j,j,j,j,j,j,j,j,j,j)],e),B.j,B.f,B.d,j)
 q=q.i(l,"text")
 if(q==null)q=""
-r.push(A.A(j,A.aq7(A.z(A.a([o,A.b3(j,A.A(j,A.z(A.a([new A.dn(1,j),A.A(j,A.u(A.a([new A.de(q,j,j,j,j,j,j,j,j,j,j),new A.dn(1,j),A.b3(j,new A.fo(B.T6,15,B.m,j,j),B.o,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,new A.aYa(k,s,m),j,j,j,j,j,j)],e),B.j,B.f,B.d,j),B.k,B.dY,j,j,j,90,j,j,j,j,j,170)],e),B.j,B.f,B.d,B.l),B.k,B.dY,j,j,j,95,j,j,j,j,j,170),B.o,!1,j,new A.aYb(k,s,m),j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j)],e),B.j,B.f,B.d,B.l),B.dY,!0),B.k,j,j,j,j,j,j,j,j,j,j,170));++m}r=k.fy
+r.push(A.A(j,A.aq7(A.z(A.a([o,A.b3(j,A.A(j,A.z(A.a([new A.dn(1,j),A.A(j,A.u(A.a([new A.de(q,j,j,j,j,j,j,j,j,j,j),new A.dn(1,j),A.b3(j,new A.fo(B.T7,15,B.m,j,j),B.o,!1,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,new A.aYa(k,s,m),j,j,j,j,j,j)],e),B.j,B.f,B.d,j),B.k,B.dY,j,j,j,90,j,j,j,j,j,170)],e),B.j,B.f,B.d,B.l),B.k,B.dY,j,j,j,95,j,j,j,j,j,170),B.o,!1,j,new A.aYb(k,s,m),j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j)],e),B.j,B.f,B.d,B.l),B.dY,!0),B.k,j,j,j,j,j,j,j,j,j,j,170));++m}r=k.fy
 if(r===$)r=k.fy=A.a([],e)
 p=k.go
 r.push(A.u(p,B.n,B.f,B.d,j));++s}return k.gaa9()},
@@ -153485,18 +153485,18 @@ B.rC=new A.da(57657,!1)
 B.rD=new A.da(57686,!1)
 B.T3=new A.da(57706,!1)
 B.cY=new A.da(57785,!1)
+B.T4=new A.da(57846,!1)
 B.rE=new A.da(57857,!1)
 B.cZ=new A.da(57882,!1)
 B.lK=new A.da(58059,!1)
 B.lL=new A.da(58060,!1)
-B.T5=new A.da(58136,!1)
+B.T6=new A.da(58136,!1)
 B.rF=new A.da(58168,!1)
-B.T6=new A.da(58172,!1)
-B.T7=new A.da(58195,!1)
+B.T7=new A.da(58172,!1)
+B.T8=new A.da(58195,!1)
 B.rG=new A.da(58332,!1)
-B.T8=new A.da(58372,!1)
+B.T9=new A.da(58372,!1)
 B.rH=new A.da(58513,!1)
-B.T9=new A.da(58704,!1)
 B.lN=new A.da(58813,!1)
 B.lO=new A.da(58814,!1)
 B.rI=new A.da(59133,!1)
@@ -153522,8 +153522,8 @@ B.aj=new A.fo(B.cY,null,B.dl,null,null)
 B.To=new A.fo(B.cY,10,B.dl,null,null)
 B.Tn=new A.fo(B.cY,20,B.dl,null,null)
 B.Tp=new A.fo(B.aS,16,null,null,null)
-B.T4=new A.da(57926,!1)
-B.rM=new A.fo(B.T4,null,null,null,null)
+B.T5=new A.da(57926,!1)
+B.rM=new A.fo(B.T5,null,null,null,null)
 B.T_=new A.da(57634,!1)
 B.rN=new A.fo(B.T_,null,null,null,null)
 B.T0=new A.da(57694,!0)
